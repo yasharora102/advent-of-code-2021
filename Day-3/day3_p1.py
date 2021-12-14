@@ -1,6 +1,6 @@
 with open("day_3_data.txt", "r") as datafile:
     data = datafile.read().split()
-print(data)
+
 
 test_list=['00100','11110','10110','10111','10101','01111','00111','11100','10000','11001','00010','01010']
 b=0
